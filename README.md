@@ -4,7 +4,6 @@
 ## Hello there! 👋
 Sou um estudante de Ciêncas da Computação do 8 período da Universidade Positivo - Curitiba/PR. Atualmente estou focado em estudar e aprender mais sobre o universo React.
 
- 💻  &nbsp; Buscando uma oportunidade como Estágiario ou Desenvolvedor Front-end Junior.
  <br/> 💯 &nbsp; Sempre disponível para um novo projeto.
  <br/> ⚡ &nbsp; Algumas das tecnologias que tenho mais afinidade: NextJS, Typescript ChakraUI, SASS, Prismic, NodeJS...
  <br/> 👋 &nbsp; Curiosidades: Sou apaixonado por esportes, música e é claro por joguinhos online🎮🎮🎮.
