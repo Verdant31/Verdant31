@@ -2,7 +2,7 @@
     <h1 align="left">Olá, eu sou o João :)</h1>
 </strong>
 <span align="left">
-    Sou um estudante de Ciências da Computação na Universidade Positivo (Atualmen).
+    Sou um estudante de Ciências da Computação na Universidade Positivo (Atualmente).
 </span>
 <br />
 <span align="left">
