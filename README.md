@@ -25,9 +25,6 @@
 </a>
 
 <br/>
-
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Verdant31&repo=Verdant31&countColorcountColor)
-<br/>
 <h2 align="left">
     Algumas tecnologias que eu utilizo:
 </h2>
