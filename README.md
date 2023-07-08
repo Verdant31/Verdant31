@@ -2,7 +2,7 @@
     <h1 align="left">Olá, eu sou o João :)</h1>
 </strong>
 <span align="left">
-    Sou formado em Ciências da Computação na Universidade Positivo (Atualmente).
+    Sou formado em Ciências da Computação na Universidade Positivo e estou cursando um MBA em Data science & Artificial Inteligence na FIAP.
 </span>
 <br />
 <span align="left">
