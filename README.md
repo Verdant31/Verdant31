@@ -2,11 +2,11 @@
     <h1 align="left">Olá, eu sou o João :)</h1>
 </strong>
 <span align="left">
-    Sou formado em Ciências da Computação na Universidade Positivo e tenho uma pós em MBA em Data science & Artificial Inteligence pela FIAP.
+    Sou um cientista da computação e tenho uma pós em Data science & Artificial Inteligence, sou fascinado por programação e por tasks impossíveis de serem resolvidas.
 </span>
 <br />
 <span align="left">
-    Sou fascinado pelo universo React e por desenvolvimento web (tenho um pézinho em redes neurais também).
+    Apesar da maior parte dos meus projetos serem relacionados ao Front e à Machine Learning/Deep learning, o que eu gosto mesmo é de resolver problemas.
 </span>
 
 <h2 align="left">
